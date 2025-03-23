@@ -4,7 +4,7 @@
 
 This repository contains the code for the COLING 2025 paper "[Aligning Large Language Models with Human Opinions through Persona Selection and Value–Belief–Norm Reasoning](https://aclanthology.org/2025.coling-main.172.pdf)". Below is its workflow.
 
-<img src="PersonaPromptNew.drawio.png" width="95%"/>
+<img src="images/PersonaPromptNew.drawio.png" width="95%"/>
 
 ## I. COO Prompting
 
